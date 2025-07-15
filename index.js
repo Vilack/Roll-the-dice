@@ -59,5 +59,5 @@ else if( randomNumber2>randomNumber1){
     document.getElementsByTagName("h1")[0].innerText="Player 2 is the winner" ;
 }
 else{
-    document.getElementsByTagName("h1")[0].innerText="Try rolling again";
+    document.getElementsByTagName("h1")[0].innerText="Its a Draw!! Try rolling again!!";
 }
